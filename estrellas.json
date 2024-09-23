@@ -1,0 +1,72 @@
+[
+	{
+		"list": 17,
+		"name": "Raphael Donovan",
+		"email": "tellus@icloud.edu",
+		"company": "Diam Duis Corporation",
+		"numberrange": 2
+	},
+	{
+		"list": 7,
+		"name": "Kim Carroll",
+		"email": "laoreet.libero@hotmail.com",
+		"company": "Donec Company",
+		"numberrange": 2
+	},
+	{
+		"list": 1,
+		"name": "Yen Montgomery",
+		"email": "consequat.lectus@outlook.edu",
+		"company": "Nibh Lacinia Corporation",
+		"numberrange": 3
+	},
+	{
+		"list": 20,
+		"name": "Isaac Nguyen",
+		"email": "ante@google.org",
+		"company": "Interdum Foundation",
+		"numberrange": 3
+	},
+	{
+		"list": 7,
+		"name": "Chaney Lloyd",
+		"email": "ridiculus@outlook.org",
+		"company": "Orci Phasellus Dapibus LLP",
+		"numberrange": 1
+	},
+    {
+		"list": 12,
+		"name": "Avery Bowman",
+		"email": "dictum@protonmail.com",
+		"company": "Magna Facilisis Corporation",
+		"numberrange": 5
+	},
+	{
+		"list": 4,
+		"name": "Delaney Morgan",
+		"email": "vulputate.vehicula@yahoo.net",
+		"company": "Vestibulum Ante Industries",
+		"numberrange": 4
+	},
+	{
+		"list": 15,
+		"name": "Mira Davidson",
+		"email": "arcu@outlook.com",
+		"company": "Aliquam Rutrum Foundation",
+		"numberrange": 1
+	},
+	{
+		"list": 9,
+		"name": "Jude Baker",
+		"email": "scelerisque.lorem@icloud.com",
+		"company": "Fermentum Corporation",
+		"numberrange": 3
+	},
+	{
+		"list": 18,
+		"name": "Sienna Russell",
+		"email": "libero.praesent@google.com",
+		"company": "Justo Tempus LLC",
+		"numberrange": 2
+	}
+]
